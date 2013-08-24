@@ -4,5 +4,7 @@ if &t_Co == 256
   let g:solarized_termcolors=256
 endif
 
+let g:solarized_contrast="high"
+
 set background=dark
 colorscheme solarized
