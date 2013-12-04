@@ -7,4 +7,4 @@ endif
 let g:solarized_contrast="high"
 
 set background=dark
-colorscheme solarized
+colorscheme molokai
